@@ -1,0 +1,13 @@
+# Rainbow glorps
+RLORP = "<:rlorp:1283284667281182825>"
+OLORP = "<:olorp:1283284663372087428>"
+YLORP = "<:ylorp:1283284666182402179>"
+GLORP = "<:glorp:1283283978555494443>"
+BLORP = "<:blorp:1283284668761768046>"
+PLORP = "<:plorp:1283284664605212693>"
+
+# Connections emotes
+BLUE_SQ = "🟦"
+PURPLE_SQ = "🟪"
+YELLOW_SQ = "🟨"
+GREEN_SQ = "🟩"
